@@ -1,0 +1,16 @@
+[
+  {
+    "line": "東北本線",
+    "station": "仙台",
+    "departure_time": "08:15",
+    "destination": "松島"
+  },
+  {
+    "line": "東北本線",
+    "station": "松島",
+    "departure_time": "08:30",
+    "destination": "仙台"
+  }
+]
+
+

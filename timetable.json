@@ -1,0 +1,11 @@
+[
+  { "station": "松島", "line": "東北本線", "departure": "06:00", "departure1": "06:00", "destination": "仙台" },
+  { "station": "松島", "line": "東北本線", "departure": "07:08", "departure1": "07:00", "destination": "仙台" },
+  { "station": "松島", "line": "東北本線", "departure": "07:15", "departure1": "07:00", "destination": "仙台" },
+  { "station": "高城", "line": "仙石線", "departure": "08:05", "departure1": "08:00", "destination": "青葉通り" },
+  { "station": "高城", "line": "仙石東北ライン", "departure": "08:20", "departure1": "08:00", "destination": "仙台" },
+  { "station": "高城", "line": "仙石東北ライン", "departure": "09:00", "departure1": "08:00", "destination": "仙台" },
+  { "station": "松島", "line": "仙石東北ライン", "departure": "09:35", "departure1": "08:00", "destination": "仙台" },
+  { "station": "高城", "line": "仙石東北ライン", "departure": "10:20", "departure1": "08:00", "destination": "仙台" },
+  { "station": "高城", "line": "仙石東北ライン", "departure": "11:20", "departure1": "08:00", "destination": "仙台" }
+]

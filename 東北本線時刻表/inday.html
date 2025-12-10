@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>東北本線時刻表</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
+</head>
+<body>
+  <div class ="header-right">
+        <img src="topページ/pic/画像1.png" width="288px" height="120px">
+        <ul>
+          <li class="selected"><a
+          href="../inday.html"
+          >homeページ
+           </a></li>
+           <li class="selected"><a
+            href="../仙石東北ライン時刻表/inday.html"
+          >仙石東北ライン時刻表
+          </a></li>
+          <li class="selected"><a
+           href="../仙石線時刻表/inday.html"
+           >仙石線時刻表
+           </a></li>
+        </ul>
+      </div>
+
+
+  
+    <h1 text-align:center>東北本線時刻表</h1>
+     <div id="current-time" style="text-align:center; font-size: 1.2em; margin-bottom: 10px;">
+    現在時刻：読み込み中...
+  </div>
+     
+    <label for="station-select">駅を選んでください：</label>
+    <select id="station-select">
+      <option value="nobori">上り</option>
+      <option value="kudari">下り</option>
+    </select>
+  
+    <table id="timetable">
+      <thead>
+        <tr><th>松島駅発車時刻</th><th>行き先</th><th>到着時間</th></tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+
+
+</body>
+</html>
